@@ -1,0 +1,4 @@
+#Wed Jul 26 23:43:43 IST 2023
+base.0=C\:\\Users\\ACER\\Desktop\\clima_prod\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
